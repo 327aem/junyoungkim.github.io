@@ -78,6 +78,13 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.about-page {
+  .profile.float-left,
+  .profile.float-right {
+    width: min(240px, 32vw);
+  }
+}
+
 .about-profile-top {
   display: grid;
   grid-template-columns: 1fr;
@@ -111,6 +118,13 @@ ul.task-list input[type="checkbox"] {
       p {
         display: block;
       }
+    }
+  }
+
+  .about-page {
+    .profile.float-left,
+    .profile.float-right {
+      width: min(240px, 28vw);
     }
   }
 }
