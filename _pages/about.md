@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Student in Graduate School of Artificial Intelligence, POSTECH
+subtitle: 
 
 profile:
   align: left
@@ -23,11 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Research Interests
+I am Ph.D student at [Data Intelligence (DI) Lab](https://di.postech.ac.kr/di/index.do) at Pohang University of Science and Technology (POSTECH), advised by [Prof.Hwanjo Yu](https://di.postech.ac.kr/di/mem/professor.do). 
 
-I am interested in developing **recommendation systems** that not only capture but actively
-elicit users' latent intentions throughout their interaction history. My research focuses on
-leveraging multimodal signals to more clearly reveal and represent these hidden preferences,
+I'm interested in developing **recommendation systems** that not only capture but actively
+elicit users' latent intentions throughout their interaction history. 
+My research focuses on leveraging multimodal signals to more clearly reveal and represent these hidden preferences,
 ultimately enabling more accurate and explainable recommender models.
 
 In parallel, I also work on **multimodal retrieval**, aiming to represent the intrinsic
@@ -36,20 +36,27 @@ matched with the most relevant document.
 
 ## Education
 
-- Feb 2024 – Present, POSTECH, Ph.D. in Graduate School of Artificial Intelligence
-- Mar 2020 – Feb 2024, Sogang University, B.S. in Computer Science & Engineering
+- **POSTECH**, Ph.D. in Graduate School of Artificial Intelligence
+  Feb 2024 – Present
+- **Sogang University**, B.S. in Computer Science & Engineering
+  Mar 2020 – Feb 2024
 
 ## Experience
 
-- Intern, Query-Rewrite Team (Naver), Jul 2024 – Aug 2024
-- Coach, Boostcourse Coaching Study, Generative AI (ModuLABS | Naver Connect), Sep 2024 – Nov 2024
+- **Naver**
+  Intern, Query-Rewrite Team, Jul 2024 – Aug 2024
+
+- **ModuLABS | Naver Connect**
+  Coach, Boostcourse Coaching Study, Generative AI, Sep 2024 – Nov 2024
 
 ## Publications
 
-- **Federated Continual Recommendation | CIKM'25**  
+- **Federated Continual Recommendation**
+  CIKM'25  
   Jaehyung Lim, Wonbin Kweon, Woojoo Kim, ***Junyoung Kim***, Seongjin Choi, Dongha Kim,
   Hwanjo Yu
-- **Crafting Query-Aware Selective Attention for Single Image Super-Resolution | arXiv'25**  
+- **Crafting Query-Aware Selective Attention for Single Image Super-Resolution**  
+  ArXiv'25
   ***Junyoung Kim***, Youngrok Kim, Siyeol Jung, Donghyun Min
 
 ## Awards & Fellowships
