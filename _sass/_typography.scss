@@ -26,7 +26,7 @@ body {
   font-size: clamp(1.25rem, 2.2vw, 1.55rem);
   font-weight: 700;
   line-height: 1.25;
-  margin-top: 1.8rem;
+  margin-top: 2rem;
   margin-bottom: 0.8rem;
 }
 
@@ -34,8 +34,29 @@ body {
   font-size: clamp(1.06rem, 1.6vw, 1.2rem);
   font-weight: 600;
   line-height: 1.35;
-  margin-top: 1.1rem;
+  margin-top: 1.2rem;
   margin-bottom: 0.4rem;
+}
+
+.about-page article h2 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.85rem;
+}
+
+.about-page article h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.35rem;
+}
+
+.about-page article p,
+.about-page article ul,
+.about-page article ol,
+.about-page article table {
+  margin-bottom: 0.85rem;
+}
+
+.about-page article li {
+  margin-bottom: 0.28rem;
 }
 
 p,
