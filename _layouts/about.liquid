@@ -16,7 +16,9 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      {% assign profile_layout = page.profile.layout | default: 'float' %}
+      <div class="{% if profile_layout == 'top' %}about-profile-top{% endif %}">
+      <div class="profile {% if profile_layout != 'top' %}float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -35,6 +37,7 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+      </div>
       </div>
     {% endif %}
 

@@ -78,6 +78,31 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.about-profile-top {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.9rem;
+  justify-items: center;
+  margin-bottom: 1.5rem;
+
+  .profile {
+    float: none !important;
+    width: min(260px, 70vw);
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .more-info {
+    font-family: inherit;
+  }
+}
+
+@media (min-width: 768px) {
+  .about-profile-top {
+    margin-bottom: 1.8rem;
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;

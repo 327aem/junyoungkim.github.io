@@ -6,6 +6,7 @@ subtitle: Graduate School of Artificial Intelligence, POSTECH
 
 profile:
   align: right
+  layout: top
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
