@@ -2,17 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate School of Artificial Intelligence, POSTECH
+subtitle: Ph.D Student in Graduate School of Artificial Intelligence, POSTECH
 
 profile:
-  align: right
-  layout: top
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>M.S./Ph.D. Student</p>
-    <p>Data Intelligence Lab (DILab)</p>
-    <p>POSTECH, Korea</p>
 
 selected_papers: false
 social: true # includes social icons at the bottom of the page
@@ -41,40 +36,20 @@ matched with the most relevant document.
 
 ## Education
 
-| Period | Degree |
-| --- | --- |
-| Feb 2024 – Present | **POSTECH**  \\ M.S./Ph.D. in Graduate School of Artificial Intelligence |
-| Mar 2020 – Feb 2024 | **Sogang University**  \\ B.S. in Computer Science & Engineering |
+- Feb 2024 – Present, POSTECH, Ph.D. in Graduate School of Artificial Intelligence
+- Mar 2020 – Feb 2024, Sogang University, B.S. in Computer Science & Engineering
 
 ## Experience
 
-### Intern, Query-Rewrite Team, Naver (Bundang, Korea)
-
-**Jul 2024 – Aug 2024**
-
-- Trained and evaluated a BERT-based embedding model to improve relevance between user
-  keyword-based queries and internal documents.
-- Designed prompts and generated augmentation data using large language models (HyperCLOVA,
-  LLaMA 3.1 405B) to address embedding model weaknesses.
-- Improved retrieval robustness by incorporating LLM-generated hard cases into the data pipeline.
-
-### Coach, Boostcourse Coaching Study, Generative AI (ModuLABS | Naver Connect)
-
-**Sep 2024 – Nov 2024**
-
-- Reviewed participants' code and projects using generative AI tools and provided detailed
-  technical feedback.
-- Diagnosed implementation issues and advised on optimization strategies for model performance and
-  generation quality.
+- Intern, Query-Rewrite Team (Naver), Jul 2024 – Aug 2024
+- Coach, Boostcourse Coaching Study, Generative AI (ModuLABS | Naver Connect), Sep 2024 – Nov 2024
 
 ## Publications
 
-- **Federated Continual Recommendation**  
-  CIKM 2025  
+- **Federated Continual Recommendation | CIKM'25**  
   Jaehyung Lim, Wonbin Kweon, Woojoo Kim, ***Junyoung Kim***, Seongjin Choi, Dongha Kim,
   Hwanjo Yu
-- **Crafting Query-Aware Selective Attention for Single Image Super-Resolution**  
-  arXiv 2025  
+- **Crafting Query-Aware Selective Attention for Single Image Super-Resolution | arXiv'25**  
   ***Junyoung Kim***, Youngrok Kim, Siyeol Jung, Donghyun Min
 
 ## Awards & Fellowships
@@ -87,14 +62,9 @@ matched with the most relevant document.
 
 **Fellowships**
 
-- Excellence Graduate Scholarship (2024)
+- Excellence Graduate Scholarship, POSTECH (2024)
 
 ## Professional Services
 
 - Program Committee (PC) Member, ACM SIGIR Conference on Research and Development in
   Information Retrieval (SIGIR), 2026
-
-## Technologies
-
-- **Languages:** Korean, English
-- **Skills:** Python, C++
